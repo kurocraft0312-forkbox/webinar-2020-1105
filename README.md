@@ -27,7 +27,7 @@ streamlitを使う際にはstreamlit run ファイル名.py
 pip install streamlit
 ```
 
-と入力してEnter
+と入力してEnterを押します。
 
 ## まずはstreamlitを体験してみよう
 コンソールにて、
@@ -37,7 +37,7 @@ streamlit hello
 ```
 
 と入力してEnterを押します。
-すると、アプリが起動します。
+すると、Exampleのアプリが起動します。
 
 ## streamlitのアプリの起動方法
 コンソールにて、
