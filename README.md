@@ -1,4 +1,4 @@
-# デイトラウェビナー2020-11月05日
+# デイトラウェビナー2020-11月05日の解説
 
 ## streamlitのページ
 https://www.streamlit.io/
@@ -45,11 +45,12 @@ Youtube APIにて、指定したキーワードでYoutube内を検索して、
 24時間以内に1万回以上再生された動画をピックアップしてくれる
 プログラムです。
 
-まずは結果を書き込むためのスプレッドシートを準備していきましょう。
+まずは結果を書き込むためのグーグルスプレッドシートを準備していきましょう。
 
 ### 1. 結果をグーグルスプレッドシートに書き込みするための準備
 
 (参考) https://tanuhack.com/operate-spreadsheet/
+（こちらの手順でスプレッドシートへのアクセス情報などが書かれたJSONファイルを取得します。）
 
 youtube-24.pyを見ながらやっていきます。
 
@@ -115,14 +116,16 @@ https://facebook.github.io/prophet/docs/installation.html
 ```
 pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
 ```
+の
 
 ```
 /Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv
 ```
 
-の部分を6758_2015_2020.csvのパスに修正。
+の部分を6758_2015_2020.csvのファイルを置いたパスに修正。
 
 # ビデオゲームの売り上げ分析
+こちらは、
 
 https://towardsdatascience.com/build-quick-and-beautiful-apps-using-streamlit-85f32ed01fb2
 の記事の流れに沿ってチュートリアルを進めていきます。
@@ -134,7 +137,5 @@ videogame.pyのプログラムを使っていきます。
 こちらはあらかじめ
 https://www.kaggle.com/gregorut/videogamesales
 からダウンロードしておきます。
-
-
 
 
