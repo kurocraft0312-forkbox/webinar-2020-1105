@@ -30,7 +30,7 @@ streamlit run ファイル名.py
 
 # Youtubeの24時間以内に一定回数以上再生された動画情報を取得
 
-youtube-24.py
+youtube-24.pyのプログラムを使っていきます。
 
 Youtube APIにて、指定したキーワードでYoutube内を検索して、
 24時間以内に1万回以上再生された動画をピックアップしてくれる
@@ -64,7 +64,7 @@ SPREADSHEET_KEY = '*************************************'
 のアスタリスクに書き込みしたいスプレッドシートのアドレスバーからスプレッドシートキーを取得して書き込む。
 
 
-### 2. Youtube API の取得
+### 2. Youtube APIキー の取得
 (参考) http://piyohiko.webcrow.jp/kids_tube/help/index.html
 
 ・27行目の
@@ -79,14 +79,14 @@ streamlit run ファイル名
 
 # 時系列予測ライブラリのProphetを使って株価の予測
 
+stockprophet.pyのプログラムを使っていきます。
 
 ### 1. まずはProphetのインストール
 
-
-### Windows
+### Windowsの場合
 https://touch-sp.hatenablog.com/entry/2019/10/09/124145
 
-### Mac
+### Macの場合(Pystanをインストールしてから、Prophetのインストール)
 https://facebook.github.io/prophet/docs/installation.html
 
 ## 8行目のファイルパスの修正
