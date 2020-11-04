@@ -5,7 +5,7 @@ https://www.streamlit.io/
 
 ### streamlitのAPIリファレンス（使い方一覧)
 https://docs.streamlit.io/en/stable/api.html
-(streamlitのコマンドが⤴︎に乗っています。)
+(streamlitのコマンドが乗っています。)
 
 ## 注意点
 streamlitを使う際にはstreamlit run ファイル名.py
@@ -13,20 +13,29 @@ streamlitを使う際にはstreamlit run ファイル名.py
 
 ## streamlitのインストール方法
 コンソールにて、
+
+```
 pip install streamlit
+```
 
 と入力してEnter
 
 ## まずはstreamlitを体験してみよう
 コンソールにて、
+
+```
 streamlit hello
+```
 
 と入力してEnter
 アプリが起動します。
 
 ## streamlitのアプリの起動方法
 コンソールにて、
+
+```
 streamlit run ファイル名.py
+```
 
 # Youtubeの24時間以内に一定回数以上再生された動画情報を取得
 
@@ -45,7 +54,11 @@ Youtube APIにて、指定したキーワードでYoutube内を検索して、
 youtube-24.pyを見ながらやっていきます。
 
 ・youtube-24.pyの17行目の
+
+```
 credentials = ServiceAccountCredentials.from_json_keyfile_name('*******************************', scope)
+```
+
 のアスタリスクに取得したJSONファイル名を書き込む
 
 
@@ -60,7 +73,11 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name('****************
 「検索キーワード」のシートの1列目に検索したいキーワード（複数可）を書き込む。
 
 ・youtube-24.pyの21行目の
+
+```
 SPREADSHEET_KEY = '*************************************'
+```
+
 のアスタリスクに書き込みしたいスプレッドシートのアドレスバーからスプレッドシートキーを取得して書き込む。
 
 
@@ -68,7 +85,11 @@ SPREADSHEET_KEY = '*************************************'
 (参考) http://piyohiko.webcrow.jp/kids_tube/help/index.html
 
 ・27行目の
+
+```
 api_key = '**********************************'
+```
+
 のアスタリスクに取得したYoutube APIキーを記入
 
 
@@ -90,10 +111,16 @@ https://touch-sp.hatenablog.com/entry/2019/10/09/124145
 https://facebook.github.io/prophet/docs/installation.html
 
 ## 8行目のファイルパスの修正
-pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
 
-/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv　の部分を6758_2015_2020.csvの
-パスに修正。
+```
+pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
+```
+
+```
+/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv
+```
+
+の部分を6758_2015_2020.csvのパスに修正。
 
 # ビデオゲームの売り上げ分析
 
