@@ -1,8 +1,16 @@
 # デイトラwebinar-2020-11月05日ファイル
 
-## streamlitのインストール
+## streamlitのページ
+https://www.streamlit.io/
+
+### streamlitのAPIリファレンス（使い方)
+https://docs.streamlit.io/en/stable/api.html
+
+## streamlitのインストール方法
 pip install streamlit
 
+## streamlitのアプリの起動方法
+streamlit run ファイル名.py
 
 ## Youtubeの24時間以内に一定回数以上再生された動画情報を取得
 
