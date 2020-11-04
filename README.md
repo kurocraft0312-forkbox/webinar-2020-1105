@@ -3,6 +3,9 @@
 ## streamlitのページ
 https://www.streamlit.io/
 
+## Pythonのアプリの解説とstreamlitの位置付け
+https://mm.tt/1679296151?t=URbLdlR6D4
+
 ### streamlitのAPIリファレンス（使い方一覧)
 https://docs.streamlit.io/en/stable/api.html
 (streamlitのコマンドが乗っています。)
