@@ -6,12 +6,15 @@
 ## streamlitのページ
 https://www.streamlit.io/
 
-## Pythonのアプリの解説とstreamlitの位置付け
+### Pythonのアプリの解説とstreamlitの位置付け
 https://mm.tt/1679296151?t=URbLdlR6D4
 
 ### streamlitのAPIリファレンス（使い方一覧)
 https://docs.streamlit.io/en/stable/api.html
 (streamlitのコマンドが乗っています。)
+
+### データフレームについての解説
+https://docs.pyq.jp/python/pydata/pandas/dataframe.html
 
 ## 注意点
 streamlitを使う際にはstreamlit run ファイル名.py
@@ -33,8 +36,8 @@ pip install streamlit
 streamlit hello
 ```
 
-と入力してEnter
-アプリが起動します。
+と入力してEnterを押します。
+すると、アプリが起動します。
 
 ## streamlitのアプリの起動方法
 コンソールにて、
