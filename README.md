@@ -131,12 +131,13 @@ pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
 の部分を6758_2015_2020.csvのファイルを置いたパスに修正。
 
 # ビデオゲームの売り上げ分析
+
+videogame.pyのプログラムを使っていきます。
+
 こちらは、
 
 https://towardsdatascience.com/build-quick-and-beautiful-apps-using-streamlit-85f32ed01fb2
 の記事の流れに沿ってチュートリアルを進めていきます。
-
-videogame.pyのプログラムを使っていきます。
 
 使っていくデータはvgsales.csvです。
 
