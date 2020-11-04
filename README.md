@@ -62,6 +62,14 @@ https://touch-sp.hatenablog.com/entry/2019/10/09/124145
 ### Mac
 https://facebook.github.io/prophet/docs/installation.html
 
+## 8行目のファイルパスの修正
+pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
+
+/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv　の部分を6758_2015_2020.csvの
+パスに修正。
+
+
+
 
 
 
