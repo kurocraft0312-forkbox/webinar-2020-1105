@@ -3,7 +3,7 @@
 当日解説した流れをまとめました。
 こちらを見ながらstreamlitで簡単にアプリを作る体験してみましょう！
 
-## streamlitのページ
+## streamlitの公式ページ
 https://www.streamlit.io/
 
 ### Pythonのアプリの解説とstreamlitの位置付け
