@@ -195,6 +195,16 @@ pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
 
 の部分を6758_2015_2020.csvのファイルを置いたパスに修正。
 
+### アプリの起動
+
+コンソールに
+
+```
+streamlit run stockprophet.py
+```
+
+と入力してEnterを押してアプリを起動させます。
+
 
 # ビデオゲームの売り上げ分析
 
