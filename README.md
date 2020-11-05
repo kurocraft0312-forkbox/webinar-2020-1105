@@ -13,7 +13,7 @@ https://www.streamlit.io/
 機械学習、データ可視化、分析用のアプリをフロントのコーディングなどなしに、
 非常に短い簡単なコードでサクッと作れます！
 
-![EVoPLv3UUAM1Imj](https://user-images.githubusercontent.com/69081467/98185815-c18cb180-1f50-11eb-91ea-ec7709d0268d.jpeg)
+<img width="745" alt="uberpicksc" src="https://user-images.githubusercontent.com/69081467/98186112-63ac9980-1f51-11eb-9704-4452ff2b3ead.png">
 
 もちろんデータ分析以外のアプリを作る時でもOK!
 コードが非常にシンプルなので、Python初心者の方でも馴染みやすいと思います。
