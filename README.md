@@ -3,6 +3,8 @@
 当日解説した流れをまとめました。
 こちらを見ながらstreamlitを使い、Pythonで簡単にアプリを作る体験してみましょう！
 
+streamlitはPythonでアプリを簡単に作れるフレームワークです。
+
 ## あなたがstreamlitを使うメリット
 https://www.streamlit.io/
 
