@@ -112,6 +112,7 @@ Youtube APIにて、指定したキーワードでYoutube内を検索して、
 ### 1. 結果をグーグルスプレッドシートに書き込みするための準備
 
 (参考) https://tanuhack.com/operate-spreadsheet/
+
 （こちらの手順でスプレッドシートへのアクセス情報などが書かれたJSONファイルを取得します。）
 
 youtube-24.pyを見ながらやっていきます。
