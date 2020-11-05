@@ -1,6 +1,7 @@
 # python初心者でも５分でアプリを作ろう！
 
-2020-11月05日のデイトラウェビナー(https://tokyofreelance.connpass.com/event/194340/)で解説した流れをまとめました。
+2020-11月05日のデイトラウェビナーで解説した流れをまとめました。(ウェビナーのリンクhttps://tokyofreelance.connpass.com/event/194340/)
+
 こちらを見ながらstreamlitを使い、Pythonで簡単にアプリを作る体験してみましょう！
 
 streamlitはPythonでWebアプリを簡単に作れるフレームワークです。
