@@ -11,7 +11,7 @@ streamlitはPythonでWebアプリを簡単に作れるフレームワークで�
 https://www.streamlit.io/
 
 機械学習、データ可視化、分析用のアプリをフロントのコーディングなどなしに、
-非常に短い簡単なコードでサクッと作れます！
+非常にシンプルなコードでサクッと作れます！
 
 <img width="745" alt="uberpicksc" src="https://user-images.githubusercontent.com/69081467/98186112-63ac9980-1f51-11eb-9704-4452ff2b3ead.png">
 
