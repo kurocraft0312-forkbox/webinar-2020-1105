@@ -1,13 +1,13 @@
-# python初心者でも５分でアプリを作ろう！-デイトラウェビナー2020-11月05日の解説
+# python初心者でも５分でアプリを作ろう！-
 
-当日のウェビナーで解説した流れをまとめました。
+2020-11月05日のデイトラウェビナーで解説した流れをまとめました。
 こちらを見ながらstreamlitを使い、Pythonで簡単にアプリを作る体験してみましょう！
 
 streamlitはPythonでアプリを簡単に作れるフレームワークです。
 
 ![5ed15d93ea8434e97414e47f_5e1115140227d02d6777adcb_AV_website_large](https://user-images.githubusercontent.com/69081467/98185663-6d81cd00-1f50-11eb-945e-c9d54d7359be.gif)
 
-## あなたがstreamlitを使うメリット
+## Python初学者がstreamlitを使うメリット
 https://www.streamlit.io/
 
 機械学習、データ可視化、分析用のアプリをフロントのコーディングなどなしに、
