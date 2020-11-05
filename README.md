@@ -4,9 +4,9 @@
 
 (開催されたウェビナーのリンクhttps://tokyofreelance.connpass.com/event/194340/)
 
-ここでは、その解説を見ながらstreamlitを使い、Pythonで簡単にアプリを作る体験してみましょう！
+ここでは、その解説を見ながらStreamlitを使い、Pythonで簡単にアプリを作る体験してみましょう！
 
-streamlitはPythonでWebアプリを簡単に作れるフレームワークです。
+StreamlitはPythonでWebアプリを簡単に作れるフレームワークです。
 
 ![5ed15d93ea8434e97414e47f_5e1115140227d02d6777adcb_AV_website_large](https://user-images.githubusercontent.com/69081467/98185663-6d81cd00-1f50-11eb-945e-c9d54d7359be.gif)
 
@@ -27,7 +27,7 @@ https://mm.tt/1679296151?t=URbLdlR6D4
 
 <img width="922" alt="スクリーンショット 2020-11-05 11 28 52" src="https://user-images.githubusercontent.com/69081467/98190327-2698d500-1f5a-11eb-8803-e02c5f85fe32.png">
 
-streamlitはフロントの実装がいらないので、サクッとデータ分析、
+Streamlitはフロントの実装がいらないので、サクッとデータ分析、
 可視化アプリを作ってシェアしたい方向けです。
 
 また、Flask⇨FastAPIに移行する人が増えています。
@@ -39,16 +39,16 @@ https://bit.ly/38cEUJF
 
 初めての方はまずこのようなサイトで書き方を見て慣れると習得が早いのでおすすめです。
 
-### streamlitの公式APIリファレンス（使い方一覧・英語)
+### Streamlitの公式APIリファレンス（使い方一覧・英語)
 https://docs.streamlit.io/en/stable/api.html
-(streamlitのコマンドが乗っています。)
+(Streamlitのコマンドが乗っています。)
 
 ### データフレームについての解説(データフレームが分からない人用)
 https://docs.pyq.jp/python/pydata/pandas/dataframe.html
 
 
 ## 注意点
-streamlitを使う際にはstreamlit run ファイル名.py
+Streamlitを使う際にはstreamlit run ファイル名.py
 としてコマンドを打ち込むので、VSCodeやPyCharm推奨です。
 
 ## streamlitのインストール方法
@@ -66,7 +66,7 @@ Pythonのバージョンが古い場合はインストールの際にうまく�
 
 また、colabではインストールが難しいようです。
 
-## まずはstreamlitを体験してみよう
+## まずはStreamlitを体験してみよう
 コンソールにて、
 
 ```
@@ -226,5 +226,5 @@ https://www.kaggle.com/gregorut/videogamesales
 
 https://note.com/hipotaso/n/n26a9d5d386e2
 
-こちらを見ながらstreamlitによるグラフ可視化をぜひトライ
+こちらを見ながらStreamlitによるグラフ可視化をぜひトライ
 してみて下さい。
