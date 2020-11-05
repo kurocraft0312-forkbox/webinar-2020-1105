@@ -18,6 +18,7 @@ https://www.streamlit.io/
 もちろんデータ分析以外のアプリを作る時でもOK!
 コードが非常にシンプルなので、Python初心者の方でも馴染みやすいと思います。
 
+
 ### Pythonのアプリの解説とstreamlitの位置付けをマインドマップで解説してみました。
 https://mm.tt/1679296151?t=URbLdlR6D4
 
@@ -41,6 +42,7 @@ https://docs.streamlit.io/en/stable/api.html
 
 ### データフレームについての解説(データフレームが分からない人用)
 https://docs.pyq.jp/python/pydata/pandas/dataframe.html
+
 
 ## 注意点
 streamlitを使う際にはstreamlit run ファイル名.py
@@ -84,9 +86,11 @@ streamlit run ファイル名.py
 
 <img width="371" alt="スクリーンショット 2020-11-05 10 34 21" src="https://user-images.githubusercontent.com/69081467/98186632-8b503180-1f52-11eb-8865-f210ee790214.png">
 
+
 ## 実際にアプリを作ってみよう
 
 それでは、ここから実際にプログラムを使ってアプリを作る体験をしてみましょう！
+
 
 # Youtubeの24時間以内に一定回数以上再生された動画情報を取得
 
@@ -179,9 +183,13 @@ pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
 
 の部分を6758_2015_2020.csvのファイルを置いたパスに修正。
 
+
 # ビデオゲームの売り上げ分析
 
 videogame.pyのプログラムを使っていきます。
+
+最終的にはこのような感じのアプリができます。
+<img width="755" alt="スクリーンショット 2020-11-05 11 40 52" src="https://user-images.githubusercontent.com/69081467/98191095-d458b380-1f5b-11eb-8e9c-6027c3b95160.png">
 
 こちらは、
 
