@@ -6,12 +6,20 @@
 ## streamlitの公式ページ
 https://www.streamlit.io/
 
+機械学習、データ可視化、分析用のアプリをフロントのコーディングなどなしに、
+非常に短い簡単なコードでサクッと作れます！
+
+もちろんただのそれ以外のアプリを作る時でもOK
+
 ### Pythonのアプリの解説とstreamlitの位置付け
 https://mm.tt/1679296151?t=URbLdlR6D4
+
 
 ### streamlitのAPIリファレンス（使い方一覧)
 https://docs.streamlit.io/en/stable/api.html
 (streamlitのコマンドが乗っています。)
+
+
 
 ### データフレームについての解説
 https://docs.pyq.jp/python/pydata/pandas/dataframe.html
