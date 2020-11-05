@@ -209,7 +209,7 @@ https://www.kaggle.com/gregorut/videogamesales
 
 # 各国のコロナ感染者状況の可視化
 
-![picture_pc_9c61e950332308c91b631eb2bd40f097](https://user-images.githubusercontent.com/69081467/98193063-a7a69b00-1f5f-11eb-865e-1eaf168105cf.png)
+![picture_pc_9c61e950332308c91b631eb2bd40f097](https://user-images.githubusercontent.com/69081467/98193161-df154780-1f5f-11eb-8108-8cb4a13c7533.png)
 
 ウェビナーでは時間の都合上できませんでしたが、
 コロナ感染者状況のグラフについての解説は過去のnoteに記載
