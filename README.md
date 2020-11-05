@@ -16,12 +16,12 @@ https://www.streamlit.io/
 https://mm.tt/1679296151?t=URbLdlR6D4
 
 
-### streamlitのAPIリファレンス（使い方一覧)
+### streamlitのAPIリファレンス（使い方一覧・英語)
 https://docs.streamlit.io/en/stable/api.html
 (streamlitのコマンドが乗っています。)
 
-日本語で使い方を見やすくまとめてあるサイトはこちら
-https://kiseno-log.com/2020/07/09/python%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%AAweb%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90%EF%BC%9Astreamlit%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/
+### 日本語で使い方を一覧で見やすくまとめてあるサイト
+https://bit.ly/38cEUJF
 
 ### データフレームについての解説
 https://docs.pyq.jp/python/pydata/pandas/dataframe.html
