@@ -20,9 +20,14 @@ https://www.streamlit.io/
 
 ### Pythonのアプリの解説とstreamlitの位置付けをマインドマップで解説してみました。
 https://mm.tt/1679296151?t=URbLdlR6D4
+
 <img width="922" alt="スクリーンショット 2020-11-05 11 28 52" src="https://user-images.githubusercontent.com/69081467/98190327-2698d500-1f5a-11eb-8803-e02c5f85fe32.png">
-streamlitはフロントの実装がいらないので、サクッとデータ分析、可視化アプリを作ってシェアしたい方向けです。
-Flask⇨FastAPIに移行する人が増えています。がっつり作りたいなら色々揃って作りやすいDjangoまたは軽量で高速なFastAPIが良いでしょう。
+
+streamlitはフロントの実装がいらないので、サクッとデータ分析、
+可視化アプリを作ってシェアしたい方向けです。
+
+Flask⇨FastAPIに移行する人が増えています。
+がっつり作りたいなら色々揃って作りやすいDjangoまたは軽量で高速なFastAPIが良いでしょう。
 
 ### 日本語でstreamlitの使い方を一覧で見やすくまとめてあるサイト
 https://bit.ly/38cEUJF
