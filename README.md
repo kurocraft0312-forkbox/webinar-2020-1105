@@ -180,7 +180,13 @@ stockprophet.pyのプログラムを使っていきます。
 https://touch-sp.hatenablog.com/entry/2019/10/09/124145
 
 ### Macの場合(Pystanをインストールしてから、Prophetのインストール)
-https://facebook.github.io/prophet/docs/installation.html
+```
+pip install pystan
+```
+をしてから
+```
+pip install fbprophet
+```
 
 ## 8行目のファイルパスの修正
 
