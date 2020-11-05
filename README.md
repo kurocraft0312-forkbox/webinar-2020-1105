@@ -16,7 +16,7 @@ https://www.streamlit.io/
 <img width="745" alt="uberpicksc" src="https://user-images.githubusercontent.com/69081467/98186112-63ac9980-1f51-11eb-9704-4452ff2b3ead.png">
 
 もちろんデータ分析以外のアプリを作る時でもOK!
-コードが非常にシンプルなので、Python初心者の方でも馴染みやすいと思います。
+コードが非常にシンプルなので、Python初学者の方でも馴染みやすいと思います。
 
 
 ### Pythonのアプリの解説とstreamlitの位置付けをマインドマップで解説してみました。
