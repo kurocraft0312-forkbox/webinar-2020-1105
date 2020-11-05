@@ -14,17 +14,17 @@ https://www.streamlit.io/
 もちろんデータ分析以外のアプリを作る時でもOK!
 コードが簡単なので、Python初心者の方でも簡単にアプリが作れます。
 
-### Pythonのアプリの解説とstreamlitの位置付け
+### Pythonのアプリの解説とstreamlitの位置付けをマインドマップで解説してみました。
 https://mm.tt/1679296151?t=URbLdlR6D4
 
-### 日本語で使い方を一覧で見やすくまとめてあるサイト
+### 日本語でstreamlitの使い方を一覧で見やすくまとめてあるサイト
 https://bit.ly/38cEUJF
 
 ### streamlitの公式APIリファレンス（使い方一覧・英語)
 https://docs.streamlit.io/en/stable/api.html
 (streamlitのコマンドが乗っています。)
 
-### データフレームについての解説
+### データフレームについての解説(データフレームが分からない人用)
 https://docs.pyq.jp/python/pydata/pandas/dataframe.html
 
 ## 注意点
