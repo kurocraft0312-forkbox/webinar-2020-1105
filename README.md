@@ -162,6 +162,9 @@ streamlit run ファイル名
 
 stockprophet.pyのプログラムを使っていきます。
 
+完成イメージはこのような形になります。(6758 Sonyの株価を予測しています。)
+<img width="766" alt="スクリーンショット 2020-11-05 11 52 04" src="https://user-images.githubusercontent.com/69081467/98191869-74fba300-1f5d-11eb-8887-cc4b82aa246e.png">
+
 ### 1. まずはProphetのインストール
 
 ### Windowsの場合
