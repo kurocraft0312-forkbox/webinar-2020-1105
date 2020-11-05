@@ -207,3 +207,13 @@ https://www.kaggle.com/gregorut/videogamesales
 からダウンロードしておきます。
 
 
+# 各国のコロナ感染者状況の可視化
+
+ウェビナーでは時間の都合上できませんでしたが、
+コロナ感染者状況のグラフについての解説は過去のnoteに記載
+しました。
+
+https://note.com/hipotaso/n/n26a9d5d386e2
+
+こちらを見ながらstreamlitによるグラフ可視化をぜひトライ
+してみて下さい。
