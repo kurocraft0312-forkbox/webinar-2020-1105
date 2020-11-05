@@ -4,7 +4,7 @@
 
 (開催されたウェビナーのリンクhttps://tokyofreelance.connpass.com/event/194340/)
 
-これから書く解説を見ながらstreamlitを使い、Pythonで簡単にアプリを作る体験してみましょう！
+その解説を見ながらstreamlitを使い、Pythonで簡単にアプリを作る体験してみましょう！
 
 streamlitはPythonでWebアプリを簡単に作れるフレームワークです。
 
