@@ -26,11 +26,13 @@ https://mm.tt/1679296151?t=URbLdlR6D4
 streamlitはフロントの実装がいらないので、サクッとデータ分析、
 可視化アプリを作ってシェアしたい方向けです。
 
-Flask⇨FastAPIに移行する人が増えています。
-がっつり作りたいなら色々揃って作りやすいDjangoまたは軽量で高速なFastAPIが良いでしょう。
+また、Flask⇨FastAPIに移行する人が増えています。
+がっつり作りたいなら色々揃って作りやすいDjangoまたは
+軽量で高速なFastAPIが良いでしょう。
 
 ### 日本語でstreamlitの使い方を一覧で見やすくまとめてあるサイト
 https://bit.ly/38cEUJF
+初めての方はまずこのようなサイトで書き方を見て慣れるのが早いのでおすすめです。
 
 ### streamlitの公式APIリファレンス（使い方一覧・英語)
 https://docs.streamlit.io/en/stable/api.html
