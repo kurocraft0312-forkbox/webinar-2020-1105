@@ -189,6 +189,7 @@ pd.read_csv("/Users/io/Desktop/prophet/stockdata/6758_2015_2020.csv"...
 videogame.pyのプログラムを使っていきます。
 
 最終的にはこのような感じのアプリができます。
+
 <img width="755" alt="スクリーンショット 2020-11-05 11 40 52" src="https://user-images.githubusercontent.com/69081467/98191095-d458b380-1f5b-11eb-8e9c-6027c3b95160.png">
 
 こちらは、
