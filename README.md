@@ -87,7 +87,7 @@ streamlit run ファイル名.py
 すると下記のようにURLが出るので、
 そちらをクリックするとブラウザが立ち上がってアプリを見ることができます。
 
-<img width="371" alt="スクリーンショット 2020-11-05 10 34 21" src="https://user-images.githubusercontent.com/69081467/98186632-8b503180-1f52-11eb-8865-f210ee790214.png">
+<img width="" alt="スクリーンショット 2020-11-05 10 34 21" src="https://user-images.githubusercontent.com/69081467/98186632-8b503180-1f52-11eb-8865-f210ee790214.png">
 
 
 ## 実際にアプリを作ってみよう
